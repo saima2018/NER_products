@@ -1,0 +1,1 @@
+bert-base-serving-start -model_pb_dir /home/ubuntu/cd_nlp/general_ner/bert_model/NER_pb -bert_model_dir /home/ubuntu/cd_nlp/general_ner/bert_model/bert_original -model_dir /home/ubuntu/cd_nlp/general_ner/bert_model/NER_pkl -mode NER -port 5555 -port_out 5556 -mode NER -cpu 
